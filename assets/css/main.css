@@ -1392,6 +1392,9 @@ body {
         -ms-flex-pack: center;
         justify-content: center
     }
+    .contact {
+        background: none;
+    }
 }
 
 .contact--lockup .modal {
